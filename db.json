@@ -1,4 +1,4 @@
-var COURSES = [
+
     {
         id: 1,
         name: 'Angular: CLI',
@@ -54,4 +54,4 @@ var COURSES = [
         price: 56.99,
         imageUrl: '/assets/images/animations.png',
     }
-];
+
